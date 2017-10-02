@@ -14,6 +14,7 @@ void Random(){
 }
 int main(){
     Random(); //runs our function
+    
 }
 
 
